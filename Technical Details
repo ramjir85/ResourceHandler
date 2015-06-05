@@ -1,0 +1,6 @@
+Technical Details
+
+1. This is built on IntelliJ IDE.
+2. Using gradle as the code build tool.
+3. Builder pattern for creating the messages.
+4. Using Log4J, JUnit, AssertJ and Mockito.
